@@ -11,10 +11,21 @@ I build automation systems, chatbots, and RAG-based AI agents. I've interned and
 
 ---
 
+### AI Productivity Tools I Use
+- **Code & Development**: VS Code with GitHub Copilot, Cursor, Jupyter Lab  
+- **LLM & RAG Orchestration**: LangChain, LlamaIndex, Hugging Face Transformers  
+- **Experimentation & Tracking**: Weights & Biases, MLflow  
+- **Deployment & Automation**: Docker, FastAPI, Celery, GitHub Actions  
+- **Productivity & Collaboration**: Notion, Slack, Trello  
+
+---
+
 ### Technologies & Expertise
 - Python, Natural Language Processing (NLP), Computer Vision  
 - RAG systems, scalable ML models  
-- Advanced frameworks (TensorFlow, PyTorch, etc.)  
+- Advanced frameworks (TensorFlow, PyTorch, etc.)
+- FastAPI for better backend handling
+- CI/CD Git pipelines & Docker for deployment process
 - Tailoring AI solutions to diverse business needs  
 
 ---
